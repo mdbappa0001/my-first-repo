@@ -1,0 +1,11 @@
+.hot{
+    width: 500px;
+    height: 500px;
+}
+img{
+    width: 500px;
+    height: 500px;
+    border: 5px solid green;
+    margin: 20px 100px;
+    padding: 10px;
+}
